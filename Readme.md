@@ -1,5 +1,6 @@
 Series plugin
 -------------
+[![PyPI version](https://badge.fury.io/py/pelican-series.svg)](https://badge.fury.io/py/pelican-series)
 
 Originally by Leonardo Giordani (see [](https://github.com/getpelican/pelican-plugins/tree/master/series))
 
