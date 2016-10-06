@@ -1,7 +1,7 @@
 Series plugin
 -------------
 
-Originally from [](https://github.com/getpelican/pelican-plugins/tree/master/series) by Leonardo Giordani.
+Originally by Leonardo Giordani (see [](https://github.com/getpelican/pelican-plugins/tree/master/series))
 
 The series plugin allows you to join different posts into a series.
 
