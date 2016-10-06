@@ -13,8 +13,10 @@ setup(
     long_description='The plugin collects all articles belonging to the same series and provides series-related variables that you can use in your template.',
     author= 'Leonardo Giordani',
     author_email='giordani.leonardo@gmail.com',
-    url='https://github.com/getpelican/pelican-plugins/tree/master/series',
-    py_modules=['series'],
+    mantainer='Cristian Prieto',
+    mantainer_email='me@cprieto.com',
+    url='https://github.com/cprieto/pelican-series',
+    py_modules=['pelican_series'],
     install_requires=['pelican'],
     license='Simplified BSD License',
     classifiers=[
