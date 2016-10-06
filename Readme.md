@@ -1,6 +1,8 @@
 Series plugin
 -------------
 
+Originally from [](https://github.com/getpelican/pelican-plugins/tree/master/series) by Leonardo Giordani.
+
 The series plugin allows you to join different posts into a series.
 
 In order to mark posts as part of a series, use the `:series:` metadata:
