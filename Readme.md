@@ -45,3 +45,20 @@ For example:
             {% endfor %}
         </ol>
     {% endif %}
+
+
+## Installation
+
+First, grab the package from PyPI:
+
+```
+pip install pelican-series
+```
+
+Now just add it in your pelicanconf.py file:
+
+```py
+PLUGINS = ['pelican_series']
+```
+
+Done.
