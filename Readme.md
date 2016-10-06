@@ -58,7 +58,7 @@ pip install pelican-series
 Now just add it in your pelicanconf.py file:
 
 ```py
-PLUGINS = ['pelican_series']
+PLUGINS = ['series']
 ```
 
 Done.
