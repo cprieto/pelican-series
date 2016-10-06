@@ -16,7 +16,7 @@ setup(
     maintainer='Cristian Prieto',
     maintainer_email='me@cprieto.com',
     url='https://github.com/cprieto/pelican-series',
-    py_modules=['pelican_series'],
+    py_modules=['series'],
     install_requires=['pelican'],
     license='Simplified BSD License',
     classifiers=[
