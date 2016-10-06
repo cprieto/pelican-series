@@ -2,7 +2,7 @@ Series plugin
 -------------
 [![PyPI version](https://badge.fury.io/py/pelican-series.svg)](https://badge.fury.io/py/pelican-series)
 
-Originally by Leonardo Giordani (see [](https://github.com/getpelican/pelican-plugins/tree/master/series))
+Originally by [Leonardo Giordani](https://github.com/getpelican/pelican-plugins/tree/master/series)
 
 The series plugin allows you to join different posts into a series.
 
