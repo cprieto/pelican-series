@@ -3,7 +3,7 @@ blinker==1.4
 clint==0.5.1
 docutils==0.12
 feedgenerator==1.9
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 pelican==3.6.3
 -e git+https://github.com/cprieto/pelican-series.git@061d6e3f8ddf80461d9fe8a4ea1d666f4df3d4dc#egg=pelican_series
